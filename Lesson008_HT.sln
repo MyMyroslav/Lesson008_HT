@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson008_HT", "Lesson008_HT\Lesson008_HT.csproj", "{CE1555CE-205B-4780-BA24-A0DFA7DDB49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson008_HT_Task2", "Lesson008_HT_Task2\Lesson008_HT_Task2.csproj", "{594068E4-AAD9-443E-8F0B-1EE637C2E7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson008_HT_Task3", "Lesson008_HT_Task3\Lesson008_HT_Task3.csproj", "{A3CAF618-A869-4930-B450-5E6DD3D405DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson008_HT_Task4", "Lesson008_HT_Task4\Lesson008_HT_Task4.csproj", "{C40A4C98-30D0-4DF8-8C4E-6874F01FD5F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE1555CE-205B-4780-BA24-A0DFA7DDB49C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CE1555CE-205B-4780-BA24-A0DFA7DDB49C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CE1555CE-205B-4780-BA24-A0DFA7DDB49C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CE1555CE-205B-4780-BA24-A0DFA7DDB49C}.Release|anycpu.Build.0 = Release|anycpu
+		{594068E4-AAD9-443E-8F0B-1EE637C2E7AB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{594068E4-AAD9-443E-8F0B-1EE637C2E7AB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{594068E4-AAD9-443E-8F0B-1EE637C2E7AB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{594068E4-AAD9-443E-8F0B-1EE637C2E7AB}.Release|anycpu.Build.0 = Release|anycpu
+		{A3CAF618-A869-4930-B450-5E6DD3D405DE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A3CAF618-A869-4930-B450-5E6DD3D405DE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A3CAF618-A869-4930-B450-5E6DD3D405DE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A3CAF618-A869-4930-B450-5E6DD3D405DE}.Release|anycpu.Build.0 = Release|anycpu
+		{C40A4C98-30D0-4DF8-8C4E-6874F01FD5F0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C40A4C98-30D0-4DF8-8C4E-6874F01FD5F0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C40A4C98-30D0-4DF8-8C4E-6874F01FD5F0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C40A4C98-30D0-4DF8-8C4E-6874F01FD5F0}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
